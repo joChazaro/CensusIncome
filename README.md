@@ -21,3 +21,8 @@ Here’s a list of the independent or predictor variables used to predict whethe
 - Capital-loss
 - Hours-per-week
 - Native-country
+
+
+*********
+Original project outline can be found at: https://www.edureka.co/blog/data-science-projects/
+This project is strictly used for RStudio practice and served me as an introductory project into data science
